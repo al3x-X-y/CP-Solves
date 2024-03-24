@@ -1,0 +1,1 @@
+{"name":"Local: fractional_knapsack","url":"/home/al3x_x_y/Documents/GitHub/CP-Solves/fractional_knapsack.cpp","tests":[{"id":1711238625105,"input":"4\n4 20\n3 9 \n2 12\n1 7\n5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/al3x_x_y/Documents/GitHub/CP-Solves/fractional_knapsack.cpp","group":"local","local":true}
